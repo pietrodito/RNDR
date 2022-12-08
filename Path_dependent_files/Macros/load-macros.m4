@@ -1,0 +1,5 @@
+include(<hard-coded-path>/Macros/foreach.m4)
+include(<hard-coded-path>/Macros/forloop.m4)
+include(<hard-coded-path>/Macros/oracle.m4)
+include(<hard-coded-path>/Macros/pmsi.m4)
+include(<hard-coded-path>/Macros/dcir.m4)
